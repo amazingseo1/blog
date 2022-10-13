@@ -1,0 +1,2 @@
+# blog
+Amazing SEO Blog
